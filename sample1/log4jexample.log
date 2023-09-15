@@ -1,0 +1,323 @@
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-6 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.Sample1Application -User Added
+INFO http-nio-8081-exec-8 com.sample.Sample1Application -User Exist
+DEBUG http-nio-8081-exec-6 com.sample.Sample1Application -message sent from private Chat
+INFO http-nio-8081-exec-2 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-7 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-8 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-2 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-3 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-8 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-5 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-3 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-10 com.sample.Sample1Application -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-4 com.sample.Sample1Application -message sent from private Chat
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-9 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-10 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-3 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-3 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-6 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-5 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-10 com.sample.Sample1Application -Wrong Credentials
+INFO http-nio-8081-exec-3 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-5 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-7 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-8 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.Sample1Application -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-9 com.sample.Sample1Application -message sent from private Chat
+INFO http-nio-8081-exec-5 com.sample.Sample1Application -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-3 com.sample.Sample1Application -message sent from private Chat
+INFO http-nio-8081-exec-6 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-8 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-8 com.sample.Sample1Application -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.Sample1Application -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-9 com.sample.Sample1Application -message sent from private Chat
+INFO http-nio-8081-exec-1 com.sample.Sample1Application -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.Sample1Application -logged out...
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -Wrong Credentials
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -Wrong Credentials
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -Wrong Credentials
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-5 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-3 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-4 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -Wrong Credentials
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-9 com.sample.controller.ReadPrivateChat -message sent from private Chat
+DEBUG http-nio-8081-exec-4 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-3 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-5 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-1 com.sample.controller.PrivatechatAdd -User Added
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-2 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -Wrong Credentials
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -Wrong Credentials
+INFO http-nio-8081-exec-3 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-4 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-4 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-8 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -Wrong Credentials
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -Wrong Credetials
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-2 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-5 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-8 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-8 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-6 com.sample.controller.ReadPrivateChat -message sent from private Chat
+DEBUG http-nio-8081-exec-9 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-3 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.PrivatechatAdd -User Added
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-1 com.sample.controller.PrivatechatAdd -User Added
+INFO http-nio-8081-exec-5 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-8 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-9 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-7 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-6 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-2 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-8 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-3 com.sample.controller.ReadPrivateChat -message sent from private Chat
+DEBUG http-nio-8081-exec-7 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-3 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-9 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-10 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-4 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-3 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-8 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-1 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-2 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -User Registered
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.PrivatechatAdd -User Added
+DEBUG http-nio-8081-exec-2 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -Wrong Credetials
+INFO http-nio-8081-exec-6 com.sample.controller.RegisterServlet -Wrong Credetials
+INFO http-nio-8081-exec-1 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-9 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-3 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-4 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-3 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -Wrong Credetials
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -Wrong Credetials
+INFO http-nio-8081-exec-7 com.sample.controller.RegisterServlet -Wrong Credetials
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-7 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-10 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-9 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-8 com.sample.controller.GlobalController -message sent
+INFO http-nio-8081-exec-4 com.sample.controller.GlobalController -Redirecting to Private Chat
+DEBUG http-nio-8081-exec-9 com.sample.controller.ReadPrivateChat -message sent from private Chat
+INFO http-nio-8081-exec-5 com.sample.controller.RegisterServlet -logged out...
+INFO http-nio-8081-exec-8 com.sample.controller.RegisterServlet -Wrong Credetials
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -User LoggedIn..
+INFO http-nio-8081-exec-5 com.sample.controller.GlobalController -Redirecting to Private Chat
+INFO http-nio-8081-exec-2 com.sample.controller.RegisterServlet -logged out...
